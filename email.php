@@ -26,7 +26,7 @@ if(mail($_REQUEST['to'],$_REQUEST['subject'],$_REQUEST['msg'],$headers)) {
 </head>
 
 <body>
-<h1>Email Integration Test</h1>
+<h1>Email Integration Tester</h1>
 <form name="mail_form" action="" method="post">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
